@@ -1,6 +1,5 @@
 ---
 name: przychody-i-koszty
-name: revenue-opex-agent
 description: Subagent Etapu 1c procesu AKK. Buduje projekcje przychodów i kosztów operacyjnych (OPEX) rok-po-roku dla każdego wariantu analizy w zakładce "Przychody i koszty", metodą różnicową (wariant bezinwestycyjny vs inwestycyjny), zgodnie z założeniami cenowymi i wskaźnikami indeksacji z zakładki "Dane wejściowe i założenia". Wywoływany przez akk-konfigurator po zatwierdzeniu PK-1b.
 model: sonnet
 effort: high
